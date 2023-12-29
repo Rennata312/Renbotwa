@@ -10,12 +10,12 @@ Sebelum menggunakan bot ini ada baiknya kalian melihat menu *!info* dan *!donasi
 💵GUNAKAN COMMAND !donasi untuk berdonasi💵
 
 INFO BOT! :
-🔱 *AUTHOR*: REUZ
-🔱 *GITHUB*: https://github.com/benisadewa/kntnbotwa
+🔱 *AUTHOR*: RENBOT
+🔱 *GITHUB*: https://github.com/rennata312/renbot
 🔱 *INSTAGRAM*: ${instagram}
 🔱 *YOUTUBE*: ${youtube}
 🔱 *TELEGRAM* : ${telegram}
-🔱 *WHATSAPP* : 081271699856
+🔱 *WHATSAPP* : 0858957862710
 
 🔱 *SCRIPT ORIGINAL BY*: https://github.com/fdciabdul
 
