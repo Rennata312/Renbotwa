@@ -124,8 +124,8 @@ FOLLOW INSTAGRAM SAYA
 ${instagram}
 
 • TELEGRAM : ${telegram}
-• Youtube : R E U Z
-• WA : 081271699856
+• Youtube : R D S A N D
+• WA : 0858957862710
 • Pasang Iklan? Chat Whatsapp.
 
 📺 *IKLAN* : *YOUTUBE REUZ*
